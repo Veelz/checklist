@@ -1,4 +1,4 @@
 import { createApp } from 'vue'
-import App from './App.vue'
+import TodoHost from './components/TodoHost.vue'
 
-createApp(App).mount('#app')
+createApp(TodoHost).mount('#app')
